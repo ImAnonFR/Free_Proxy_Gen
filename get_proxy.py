@@ -1,6 +1,5 @@
 import requests
 from time import sleep
-import json
 
 
 if __name__ == "__main__":
