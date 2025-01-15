@@ -11,7 +11,7 @@ $ git clone https://github.com/ImAnonFR/Free_Proxy_Gen
 
 $ cd Free_Proxy_Gen
 
-$ pip install -r requirements.txt
+$ pip install requests
 ```
 
 ## How to use : 
